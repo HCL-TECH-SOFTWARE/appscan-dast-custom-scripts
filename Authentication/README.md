@@ -1,7 +1,7 @@
 ## Basic
 
-Scripts that allows manipulate/add basic http authentication
+Scripts that allows add basic HTTP authentication
 
 ## Credentials
 
-Scripts that allows to manipulate/add the credentials that sent with the http request
+Scripts that allows to add the credentials that sent with the HTTP request
